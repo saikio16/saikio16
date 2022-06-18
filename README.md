@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫About Me :
-🏫 I'm currently working on Universidad Kino
-🌱 I'm currently learning IA and ML with Python
-💬 I like to talk about Science and IA
-💻 Connect with me on LinkedIn
+- 🏫 I'm currently working on Universidad Kino
+- 🌱 I'm currently learning IA and ML with Python
+- 💬 I like to talk about Science and IA
+- 💻 Connect with me on LinkedIn
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ing-ernesto-valencia) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@VM_Ernesto) 
